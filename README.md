@@ -12,3 +12,13 @@
     - [1 Check if string is palindrome](https://github.com/sumeetmathpati/DSA/tree/master/string/1%20Check%20if%20string%20is%20palindrome)
     - [2 Check if strings are anagrams](https://github.com/sumeetmathpati/DSA/tree/master/string/2%20Check%20if%20strings%20are%20anagrams)
     - [3 Check if string can be arranged to palindrome](https://github.com/sumeetmathpati/DSA/tree/master/string/3%20Check%20if%20string%20can%20be%20arranged%20to%20palindrome)
+- [Tree](https://github.com/sumeetmathpati/DSA/tree/master/tree)
+    - Traversing
+        - Preorder
+        - Inporter
+        - Postorder
+        - Level order
+    - Get level and height of tree
+    - Get leaf count
+    - Create mirror
+    
