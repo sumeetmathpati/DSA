@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "chrono": "c",
+        "random": "c",
+        "limits": "c",
+        "ranges": "c",
+        "valarray": "c",
+        "algorithm": "c"
+    }
+}
