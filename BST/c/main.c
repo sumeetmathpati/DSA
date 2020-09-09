@@ -135,8 +135,6 @@ struct node *search(struct node *root, int value) {
     }
 }
 
-// Insert function for BST. 
-// Element can be inserted only at the leaf.
 
 
 int main() {
