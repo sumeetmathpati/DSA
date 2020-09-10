@@ -8,6 +8,7 @@
     - [4 Left Rotation of the array by D places](https://github.com/sumeetmathpati/DSA/tree/master/array/4%20Left%20Rotation%20of%20the%20array%20by%20D%20places)
     - [5 Count elements smaller than or equal to](https://github.com/sumeetmathpati/DSA/tree/master/array/5%20Count%20elements%20smaller%20than%20or%20equal%20to%20)
     - [6 Remove duplicate elements](https://github.com/sumeetmathpati/DSA/tree/master/array/6%20Remove%20duplicate%20elements)
+    - [7 7 Stock buy and sell ](https://github.com/sumeetmathpati/DSA/tree/master/array/7%20Stock%20buy%20and%20sell%20)
 - [String](https://github.com/sumeetmathpati/DSA/tree/master/string)
     - [1 Check if string is palindrome](https://github.com/sumeetmathpati/DSA/tree/master/string/1%20Check%20if%20string%20is%20palindrome)
     - [2 Check if strings are anagrams](https://github.com/sumeetmathpati/DSA/tree/master/string/2%20Check%20if%20strings%20are%20anagrams)
