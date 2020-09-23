@@ -25,9 +25,7 @@ int myStrStr(char *s, char *x) {
 			count = 0;
 			startindex = -1;
 		}
-
 	}
-
 	return 0;
 }
 
@@ -43,6 +41,5 @@ int main() {
 	} else {
 		printf("Str not found.");
 	}
-
 	return 0;
 }
