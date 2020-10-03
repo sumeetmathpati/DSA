@@ -13,7 +13,7 @@ def list_dirs(startpath):
 		
 		# print('[{}{}/]'.format(indent, os.path.basename(root)))
 
-		output_string += '{}- [{}]({}/)'.format(indent, root, (github_url+root).replace(' ', '%20')) + '\n'
+		output_string += '{}- [{}]({}/)'.format(indent, os.path.basename(root), (github_url+root).replace(' ', '%20')) + '\n'
 	
 	return output_string
 
