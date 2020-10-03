@@ -26,10 +26,10 @@ def main():
 
 	final_string = before_list_text + dirst_list + after_list_text
 
-	print(final_string)
+	# print(final_string)
 
-	# readme_file = open('./README.md', 'w')
-	# readme_file.write(final_string)
+	readme_file = open('./README.md', 'w')
+	readme_file.write(final_string)
 
 
 
