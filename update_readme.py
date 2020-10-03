@@ -19,7 +19,7 @@ def list_dirs(startpath):
 
 def main():
 
-	before_list_text = '#Programming and Data Structures\n\n'
+	before_list_text = '# Programming and Data Structures\n\n'
 	after_list_text = ''
 
 	dirst_list = list_dirs('.')
