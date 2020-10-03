@@ -9,7 +9,7 @@ def list_dirs(startpath):
 	for root, dirs, files in os.walk(startpath):
 
 		level = root.replace(startpath, '').count(os.sep)
-		indent = '\t' * (level)
+		indent = '_ _ ' * (level)
 		
 		# print('[{}{}/]'.format(indent, os.path.basename(root)))
 
