@@ -9,11 +9,11 @@ def list_dirs(startpath):
 	for root, dirs, files in os.walk(startpath):
 
 		level = root.replace(startpath, '').count(os.sep)
-		indent = '__ ' * (level)
+		indent = '\t' * (level)
 		
 		# print('[{}{}/]'.format(indent, os.path.basename(root)))
 
-		output_string += '{} [{}]({}/)'.format(indent, os.path.basename(root), (github_url+root).replace(' ', '%20')) + '\n'
+		output_string += '{}- [{}]({}/)'.format(indent, os.path.basename(root), (github_url+root).replace(' ', '%20')) + '\n'
 	
 	return output_string
 
